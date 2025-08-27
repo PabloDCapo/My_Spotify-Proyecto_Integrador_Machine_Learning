@@ -11,7 +11,7 @@ Demostrar el potencial de los algoritmos de clustering (K-Means) para agrupar m�
 
 Generar una guía sencilla e intuitiva sobre la estructura del código y el flujo de trabajo del proyecto.
 
-##¿Cómo usar el código?
+## ¿Cómo usar el código?
 Configurar credenciales: Obtener y configurar tus credenciales de la API de Spotify (Client ID y Client Secret).
 
 Instalar dependencias: Asegurarse de tener instaladas todas las librerías necesarias (mencionadas en el archivo requirements.txt).
